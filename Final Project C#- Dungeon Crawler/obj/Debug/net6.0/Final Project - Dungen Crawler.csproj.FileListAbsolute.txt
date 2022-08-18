@@ -1,0 +1,15 @@
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.csproj.AssemblyReference.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.GeneratedMSBuildEditorConfig.editorconfig
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.AssemblyInfoInputs.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.AssemblyInfo.cs
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.csproj.CoreCompileInputs.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungen Crawler.exe
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungen Crawler.deps.json
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungen Crawler.runtimeconfig.json
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungen Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungen Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\refint\Final Project - Dungen Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungen Crawler.genruntimeconfig.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\ref\Final Project - Dungen Crawler.dll

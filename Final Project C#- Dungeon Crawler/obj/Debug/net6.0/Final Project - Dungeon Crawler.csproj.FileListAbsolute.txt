@@ -1,0 +1,60 @@
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.exe
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.deps.json
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.runtimeconfig.json
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.AssemblyReference.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.GeneratedMSBuildEditorConfig.editorconfig
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfoInputs.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfo.cs
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.CoreCompileInputs.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\refint\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.genruntimeconfig.cache
+G:\האחסון שלי\Final Project C#- Dungen Crawler\obj\Debug\net6.0\ref\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.exe
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.deps.json
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.runtimeconfig.json
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.AssemblyReference.cache
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.GeneratedMSBuildEditorConfig.editorconfig
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfoInputs.cache
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfo.cs
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.CoreCompileInputs.cache
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\refint\Final Project - Dungeon Crawler.dll
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.genruntimeconfig.cache
+G:\האחסון שלי\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\ref\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.exe
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.deps.json
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.runtimeconfig.json
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.AssemblyReference.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfoInputs.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfo.cs
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.CoreCompileInputs.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\refint\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.genruntimeconfig.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\ref\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.exe
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.deps.json
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.runtimeconfig.json
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\bin\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.AssemblyReference.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfoInputs.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.AssemblyInfo.cs
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.csproj.CoreCompileInputs.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\refint\Final Project - Dungeon Crawler.dll
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.pdb
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\Final Project - Dungeon Crawler.genruntimeconfig.cache
+C:\Users\MY\OneDrive\Desktop\home assignements and projects\C# 101\C-Final-Project--Dungen-Crawler\Final Project C#- Dungeon Crawler\obj\Debug\net6.0\ref\Final Project - Dungeon Crawler.dll
